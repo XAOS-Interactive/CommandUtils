@@ -19,5 +19,7 @@
                 "XAOSIA\\CommandUtils\\ServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
